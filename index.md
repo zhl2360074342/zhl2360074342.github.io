@@ -11,6 +11,6 @@
       <p><b>邮编：432700</b></p>
     </td>
     <td width="35%">
-      <img src="/zhengjianzhao.jpg.jpg" width="100%">       
+      <img src="/zhengjianzhao.jpg.jpg" width="80%">       
     </td>
   </tr>
