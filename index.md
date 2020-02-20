@@ -1,6 +1,6 @@
  <table border="0"> 
   <tr>
-    <td width="75%">
+    <td width="65%">
       <h1>张海林</h1>
      <p><b>出生年月：2000年11月23日</b></p>
      <p><b>民族：汉</b></p>
@@ -10,7 +10,7 @@
       <p><b>家庭住址：湖北省广水市蔡河镇楼坊村</b></p>
       <p><b>邮编：432700</b></p>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg.jpg" width="80%">       
+    <td width="35%">
+      <img src="/zhengjianzhao.jpg.jpg" width="100%">       
     </td>
   </tr>
