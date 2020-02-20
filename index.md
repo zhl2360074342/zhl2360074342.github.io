@@ -8,7 +8,7 @@
       <p><b>家庭住址：湖北省广水市蔡河镇楼坊村</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      % zhengjianzhao.jpg.jpg
     </td>
   </tr>
 </table>
